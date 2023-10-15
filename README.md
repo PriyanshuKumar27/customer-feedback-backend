@@ -25,7 +25,7 @@ You need to have the following software installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ritwik789/customer-feedback-backend.git
+   https://github.com/PriyanshuKumar27/customer-feedback-backend.git
 
 2. Change to the project directory:
 
